@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm José Manuel Gulias Lugo</h1>
-<h3 align="center">A passionate web developer from Mexico City</h3>
+<h1>Hi 👋, I'm José Manuel Gulias Lugo</h1>
+<h3>A passionate web developer from Mexico City</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,ts,nodejs,js,rollupjs,vite,tailwind,sass,styledcomponents)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chepetime&label=Profile%20views&color=0e75b6&style=flat" alt="chepetime" /> </p>
 
@@ -17,12 +19,14 @@
 </p>
 
 <h3 align="left">Support:</h3>
+
 <p><a href="https://www.buymeacoffee.com/chepe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chepe" /></a></p><br><br>
 
-<br/>
-<p>
-  <br/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chepetime&show_icons=true&locale=en&layout=compact" alt="chepetime" />
-<br/></p>
-<br/>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chepetime&show_icons=true&locale=en" alt="chepetime" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chepetime&show_icons=true&locale=en&layout=compact" alt="chepetime" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chepetime&show_icons=true&locale=en" alt="chepetime" />
+</p>
