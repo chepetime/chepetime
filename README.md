@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/chepe" target="blank"><img src="https://img.shields.io/twitter/follow/chepe?logo=twitter&style=for-the-badge" alt="chepe" /></a> </p>
 
-- 🔭 I’m currently working at [frog](https://frog.co/) 🐸 as an Associate Technology Director.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/chepe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chepe" height="30" width="40" /></a>
